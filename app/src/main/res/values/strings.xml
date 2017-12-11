@@ -1,0 +1,20 @@
+
+<resources>
+    <string name="app_name">HapiloChat</string>
+
+
+    <string name="voice_rec">手指上滑，取消发送</string>
+    <string name="voice_cancel">松开手指，取消发送</string>
+    <string name="voice_short">录音时间太短</string>
+    <string name="please_to_talk">按住 说话</string>
+
+
+    <string name="message">消息</string>
+    <string name="contact">联系人</string>
+    <string name="family">家庭</string>
+    <string name="group">群组</string>
+
+</resources>
+
+
+

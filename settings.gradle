@@ -1,0 +1,6 @@
+include ':app', ':emojiLibrary', ':library'
+/*
+include ':hapiloAccount'
+project(':hapiloAccount').projectDir = new File("../HapiloAccount",'hapiloAccount')
+include ':hapilolocalchatmessage'
+project(':hapilolocalchatmessage').projectDir = new File("../HapiloLocalMessage",'hapilolocalchatmessage')*/

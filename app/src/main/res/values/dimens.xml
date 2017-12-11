@@ -1,0 +1,34 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- 通用 -->
+
+    <dimen name="text_size_18">18.0sp</dimen>
+    <dimen name="text_size_12">12.0sp</dimen>
+
+    <dimen name="space_240">240.0dip</dimen>
+    <dimen name="space_50">50.0dip</dimen>
+    <dimen name="space_40">40.0dip</dimen>
+    <dimen name="space_30">30.0dip</dimen>
+    <dimen name="space_20">20.0dip</dimen>
+    <dimen name="space_18">18.0dip</dimen>
+    <dimen name="space_16">16.0dip</dimen>
+    <dimen name="space_12">12.0dip</dimen>
+    <dimen name="space_10">10.0dip</dimen>
+    <dimen name="space_5">5.0dip</dimen>
+    <dimen name="space_7">7.0dip</dimen>
+    <dimen name="space_3">3.0dip</dimen>
+
+    <!--标题栏高度-->
+    <!--地图高度-->
+
+
+    <!-- 宽高部分-->
+
+
+    <!-- 文本部分-->
+    <dimen name="name_size">18sp</dimen>
+
+    <!--列表item间距-->
+
+</resources>

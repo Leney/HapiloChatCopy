@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="act_detail_grid_bg">#f5ebcf</color>
+    <color name="yellow">#fcbb00</color>
+    <color name="e6c997">#e6c997</color>
+    <color name="text_color">#7f460b</color>
+    <color name="des_color">#7faa0b</color>
+
+</resources>

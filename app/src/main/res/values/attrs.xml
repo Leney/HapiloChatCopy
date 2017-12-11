@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--圆形布局-->
+    <declare-styleable name="CircleLayout">
+        <attr name="radius" format="dimension" />
+        <attr name="offset" format="integer" />
+    </declare-styleable>
+
+
+    <!-- 跑马灯效-->
+    <declare-styleable name="MarqueeView">
+        <attr name="drawableLeft" format="reference" />
+        <attr name="drawablePadding" format="dimension" />
+        <attr name="textSize" format="integer" />
+        <attr name="textColor" format="color" />
+        <!--数值越小越快-->
+        <attr name="speed" format="integer" />
+    </declare-styleable>
+
+    <!-- 群聊头像自定义属性   分割线-->
+    <declare-styleable name="NineGridImageView">
+        <attr name="imgGap" format="dimension" />
+    </declare-styleable>
+
+</resources>
